@@ -1,4 +1,11 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+The "Air Landing Page" project is a landing page created for a company specializing in branding, design, marketing, and content creation. The company provides a range of services including brand development, copywriting, logo and website design, packaging, content production, etc.
+
+Technologies used in this project include:
+
+    HTML5 and CSS3 for markup and styling
+    Gulp for building the project
+    SCSS for styling
+    Stylelint for linting
+    Git for version control and code storage on a remote server
+
+The project demonstrates the use of modern technologies for building a landing page that could serve as a foundation for a company's website.
